@@ -1,5 +1,5 @@
 #Nama : M. Eko Prasetyo
-NIM : 2009116014
+NIM : 014
 
 #welcome
 print("=====================================")
